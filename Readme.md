@@ -2,7 +2,7 @@
 
 * Студент: [Ксюша](https://up.htmlacademy.ru/htmlcss-individual/3/user/2725629).
 * Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273)
-
+* Сайт: [Мой проект Седона](https://ksssusha.github.io/2725629-sedona-3/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
